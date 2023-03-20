@@ -29,7 +29,7 @@ const NavBar = () => {
   ];
 
   return (
-    <div className="flex justify-between px-4 items-center bg-black w-full h-20 text-white fixed">
+    <div className="flex justify-between px-4 items-center bg-black bg-opacity-50 w-full h-20 text-white fixed">
       <div>
         <h1 className="text-5xl font-signature ml-2">Mehmet</h1>
       </div>
